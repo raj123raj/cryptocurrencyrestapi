@@ -1,0 +1,3 @@
+com\cryptocurrency\cryptocurrency_Rest_API\controller\CryptocurrencyController.class
+com\cryptocurrency\cryptocurrency_Rest_API\config\AppConfig.class
+com\cryptocurrency\cryptocurrency_Rest_API\config\SpringMvcDispatcherServletInitializer.class
